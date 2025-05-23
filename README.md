@@ -35,19 +35,19 @@ Projede admin panelinde kategori, ürün, ürün resmi ve slider işlemleri yap�
 Arayüz tarafında modern bir tasarım için Bootstrap 5 tercih edilmiş, parçalı yapıların yönetimi ise ViewComponent yapıları ile sağlanmıştır. Bu yönleriyle proje, .NET Core teknolojileriyle kimlik doğrulama sistemleri ve back-end mimarilerinin uygulamalı olarak öğrenilmesi için kapsamlı, yönetilebilir ve geliştirilebilir bir temel sunmaktadır.<br>
 
 Projede genel anlamda 2 bölüm bulunmaktadır.<br>
-Admin Paneli: Burada Admin, Kategori, Ürün, Ürün Resmi ve Slider entity'leri ile ilgili CRUD işlemleri yapılmaktadır.
+Admin Paneli: Burada Admin, Kategori, Ürün, Ürün Resmi ve Slider entity'leri ile ilgili CRUD işlemleri yapılmaktadır.<br>
 Vitrin Paneli: Burada da misafirlerimiz alış-verişlerini yapmak üzere kategorilerle filtrelenmiş ürünlerimizi görüntüleyebilir.
 
 Kullandığım Teknolojiler <br>
-🖥️ ASP.NET Core 6.0 — Modern, hızlı ve güçlü web uygulama framework'ü
-🛢️ MongoDB — Esnek ve ölçeklenebilir NoSQL veritabanı
-📦 MongoDB.Driver & MongoDB.Bson — MongoDB ile .NET arasında veri transferi ve sorgulama kütüphaneleri
-🗂️ Katmanlı yapı: Entities, Services, Models, Controllers, Views
-🧩 ViewComponent kullanımı
-🖼️ Razor Pages / MVC — Dinamik web sayfa oluşturma
-🎨 HTML5, CSS3, JavaScript — Frontend yapısı ve tasarımı
-🧰 Entity Mapping & DTOs — Veri transfer nesneleri ve modellerin yönetimi
-🔄 AutoMapper — Nesne dönüşümlerini kolaylaştıran araç
+🖥️ ASP.NET Core 6.0 — Modern, hızlı ve güçlü web uygulama framework'ü<br>
+🛢️ MongoDB — Esnek ve ölçeklenebilir NoSQL veritabanı<br>
+📦 MongoDB.Driver & MongoDB.Bson — MongoDB ile .NET arasında veri transferi ve sorgulama kütüphaneleri<br>
+🗂️ Katmanlı yapı: Entities, Services, Models, Controllers, Views<br>
+🧩 ViewComponent kullanımı<br>
+🖼️ Razor Pages / MVC — Dinamik web sayfa oluşturma<br>
+🎨 HTML5, CSS3, JavaScript — Frontend yapısı ve tasarımı<br>
+🧰 Entity Mapping & DTOs — Veri transfer nesneleri ve modellerin yönetimi<br>
+🔄 AutoMapper — Nesne dönüşümlerini kolaylaştıran araç<br>
 
 ## :arrow_forward: Projeden Ekran Görüntüleri
 
