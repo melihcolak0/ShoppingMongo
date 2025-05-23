@@ -1,4 +1,4 @@
-# 🚀 MongoDb ile E-Ticaret Sitesi Coza Store
+# 🚀 MongoDB ile E-Ticaret Sitesi Coza Store
 Bu repository, M&Y Yazılım Akademi bünyesinde yaptığım üçüncü proje olan MongoDb ile E-Ticaret Sitesi Coza Store projesini içermektedir. Bu eğitimde bana yol gösteren Murat Yücedağ'a çok teşekkür ederim.
 
 Bu proje, ASP.NET Core 6.0 ve MongoDb altyapısı kullanılarak geliştirilen kullanıcı tabanlı bir e-ticaret uygulamasıdır.
@@ -51,13 +51,49 @@ Kullandığım Teknolojiler <br>
 
 ## :arrow_forward: Projeden Ekran Görüntüleri
 
-### :triangular_flag_on_post: Ana Sayfa
+### :triangular_flag_on_post: Vitrin Paneli
 <div align="center">
-  <img src="https://github.com/melihcolak0/IdentityEmail/blob/1fe820118214e7c5a60536ff17c4121ca3d9493d/ss2/profile2.png" alt="image alt">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Default_Index.png" alt="image alt">
 </div>
 <div align="center">
-  <img src="https://github.com/melihcolak0/IdentityEmail/blob/1fe820118214e7c5a60536ff17c4121ca3d9493d/ss2/inbox2.jpg" alt="image alt">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/uiproduct1.jpg" alt="image alt">
 </div>
 <div align="center">
-  <img src="https://github.com/melihcolak0/IdentityEmail/blob/1fe820118214e7c5a60536ff17c4121ca3d9493d/ss2/inboxdetail2.jpg" alt="image alt">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/uiproduct2.jpg" alt="image alt">
 </div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/uiproduct3.jpg" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/uiproduct4.jpg" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/uiproduct5.jpg" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/newsletter.jpg" alt="image alt">
+</div>
+
+### :triangular_flag_on_post: Admin Paneli
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Category_Index.png" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Slider_Index.png" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_ProductImage_Index.png" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Product_Index.png" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Product_CreateProduct.png" alt="image alt">
+</div>
+<div align="center">
+  <img src="https://github.com/melihcolak0/ShoppingMongo/blob/cd10322188a3acd7bd0c84da1af4cb7d04e8d9a2/ss/localhost_7027_Product_UpdateProduct.png" alt="image alt">
+</div>
+
+
+
+
