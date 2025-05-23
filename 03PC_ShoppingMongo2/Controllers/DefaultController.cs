@@ -57,7 +57,7 @@ namespace _03PC_ShoppingMongo2.Controllers
 
             SmtpClient client = new SmtpClient();
             client.Connect("smtp.gmail.com", 587, MailKit.Security.SecureSocketOptions.StartTls);
-            client.Authenticate("projectsdotnet1@gmail.com", "scmo rnov rnbj ighn");
+            client.Authenticate("projectsdotnet1@gmail.com", "my_mail_key");
             client.Send(mimeMessage);
             client.Disconnect(true);           
 
