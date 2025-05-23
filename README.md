@@ -48,6 +48,7 @@ Kullandığım Teknolojiler <br>
 🎨 HTML5, CSS3, JavaScript — Frontend yapısı ve tasarımı<br>
 🧰 Entity Mapping & DTOs — Veri transfer nesneleri ve modellerin yönetimi<br>
 🔄 AutoMapper — Nesne dönüşümlerini kolaylaştıran araç<br>
+📧 SMTP ile e-posta gönderimi (Mail bildirim sistemi)<br>
 
 ## :arrow_forward: Projeden Ekran Görüntüleri
 
