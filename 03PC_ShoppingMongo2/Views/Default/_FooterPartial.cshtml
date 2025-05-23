@@ -1,0 +1,156 @@
+﻿@model AdminMailViewModel
+<footer class="bg3 p-t-75 p-b-32">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6 col-lg-3 p-b-50">
+				<h4 class="stext-301 cl0 p-b-30">
+					KATEGORİLER
+				</h4>
+				<ul>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Kadın
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Erkek
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Gömlek
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Tişört
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Ceket & Mont
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Pantolon
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Aksesuar
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Ayakkabı
+						</a>
+					</li>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Çanta
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="col-sm-6 col-lg-3 p-b-50">
+				<h4 class="stext-301 cl0 p-b-30">
+					YARDIM
+				</h4>
+
+				<ul>
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Hesap Ayarları
+						</a>
+					</li>
+
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Gizlilik ve Güvenlik
+						</a>
+					</li>
+
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Kargo Takip
+						</a>
+					</li>
+
+					<li class="p-b-10">
+						<a href="#" class="stext-107 cl7 hov-cl1 trans-04">
+							Sıkça Sorulan Sorular
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div class="col-sm-6 col-lg-3 p-b-50">
+				<h4 class="stext-301 cl0 p-b-30">
+					BİZE ULAŞIN
+				</h4>
+
+				<p class="stext-107 cl7 size-201">
+					Herhangi bir sorunuz var ise bize Odunpazarı, Eskişehir adresindeki mağazamızdan veya +90 123 456 78 90 telefon numarasından ulaşabilirsiniz. Aşağıda sosyal medya hesaplarımızdan da bizi takip edebilir ve yeni ürünlerden haberdar olabilirsiniz.
+				</p>
+
+				<div class="p-t-27">
+					<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<i class="fa fa-facebook"></i>
+					</a>
+					<a href="#" class="fs-18 cl7 hov-cl1 trans-04 m-r-16">
+						<i class="fa fa-instagram"></i>
+					</a>
+				</div>
+			</div>
+
+			<div class="col-sm-6 col-lg-3 p-b-50">
+				<h4 class="stext-301 cl0 p-b-30">
+					HABER BÜLTENİ
+				</h4>
+				<form method="post" asp-action="_FooterPartial" asp-controller="Default">
+					<div class="wrap-input1 w-full p-b-4">
+						<input class="input1 bg-none plh1 stext-107 cl7" type="email" placeholder="example@gmail.com" asp-for="ReceiverMail">
+						<div class="focus-input1 trans-04"></div>
+					</div>
+					<div class="p-t-18">
+						<button class="flex-c-m stext-101 cl0 size-103 bg1 bor1 hov-btn2 p-lr-15 trans-04">Abone Ol</button>
+					</div>
+				</form>
+			</div>
+		</div>
+
+		<div class="p-t-40">
+			<div class="flex-c-m flex-w p-b-18">
+				<a href="#" class="m-all-1">
+					<img src="/cozastore-master/images/icons/icon-pay-01.png" alt="ICON-PAY">
+				</a>
+
+				<a href="#" class="m-all-1">
+					<img src="/cozastore-master/images/icons/icon-pay-02.png" alt="ICON-PAY">
+				</a>
+
+				<a href="#" class="m-all-1">
+					<img src="/cozastore-master/images/icons/icon-pay-03.png" alt="ICON-PAY">
+				</a>
+
+				<a href="#" class="m-all-1">
+					<img src="/cozastore-master/images/icons/icon-pay-04.png" alt="ICON-PAY">
+				</a>
+
+				<a href="#" class="m-all-1">
+					<img src="/cozastore-master/images/icons/icon-pay-05.png" alt="ICON-PAY">
+				</a>
+			</div>
+
+			<p class="stext-107 cl6 txt-center">
+				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				@* &copy;<script>document.write(new Date().getFullYear());</script> Tüm haklası saklıdır | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a> *@
+				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				&copy; <script>document.write(new Date().getFullYear());</script> Tüm hakları saklıdır | <a href="https://colorlib.com" target="_blank">Colorlib</a> tarafından <i class="fa fa-heart-o" aria-hidden="true"></i> ile hazırlandı. <a href="https://themewagon.com" target="_blank">ThemeWagon</a> tarafından dağıtıldı. 
+			</p>
+		</div>
+	</div>
+</footer>
